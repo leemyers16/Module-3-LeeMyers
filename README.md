@@ -10,7 +10,7 @@ Have your input be validated and have at least one one character type be selecte
 Make sure the password that was generated matches the selected criteria when when generated 
 Make the password display in an alert or make it written on the page
 
-
 https://leemyers16.github.io/Module-3-LeeMyers/
 
+<img width="921" alt="Screen Shot 2022-10-31 at 3 08 18 PM" src="https://user-images.githubusercontent.com/114959288/199120232-b2e031d5-0151-4fce-8cdf-776d533d8d79.png">
 
